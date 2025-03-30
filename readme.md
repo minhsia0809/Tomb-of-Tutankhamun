@@ -92,6 +92,6 @@
 卡牌通道區卡牌移除並顯示結束遊戲的字樣。
 ![](image/end.png "end")
 
-#### 版權說明
+### 版權說明
 本遊戲的背景音樂使用Spring Spring創作的Egyptian Style, Dune Style，為免費資源。
 本遊戲所有圖片皆由小組成員繪製。
