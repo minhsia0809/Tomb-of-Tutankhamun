@@ -86,7 +86,7 @@
 設置遊玩人數後點擊Game Rule可切換至遊戲規則，點擊下方Start可開始遊戲。
 ![](image/setting.png "遊戲設定畫面")
 #### 回合顯示
-回合數及圖片隨著回合不同而改變。
+回合數及圖片隨著回合不同而改變。  
 <img src="image/round1.png" width="19%" height="20%" /> <img src="image/round2.png" width="19%" height="20%" /> <img src="image/round3.png" width="19%" height="20%" /> <img src="image/round4.png" width="19%" height="20%" /> <img src="image/round5.png" width="19%" height="20%" />
 
 #### 玩家資訊
@@ -103,7 +103,7 @@
 #### 卡牌通道
 顯出每一次抽出的卡牌，每一張卡牌下方含有該卡牌名稱。寶石卡及神器卡右上方會顯示當前剩餘數值，一但神器被取走或寶石被分完，圖示和數值即消失，僅留下背景。
 ![](image/path.png "path")
-####按鈕選擇
+#### 按鈕選擇
 玩家透過按鈕選擇下一步動作，LEAVE代表返回營地，STAY代表繼續探險。
 ![](image/button.png "buttonArea")
 #### 結束畫面
