@@ -46,7 +46,8 @@
 <img src="image/hazard3.png" width="19%" height="20%" /> <img src="image/hazard5.png" width="19%" height="20%" /> <img src="image/hazard1.png" width="19%" height="20%" /> <img src="image/hazard2.png" width="19%" height="20%" />  <img src="image/hazard4.png" width="19%" height="20%" />  
 
 2. 選擇返回營地之玩家  
-均分路徑上每張寶石卡剩餘的寶石，每回合的探索並不會影響放置於帳篷中的寶藏
+均分路徑上每張寶石卡剩餘的寶石，每回合的探索並不會影響放置於帳篷中的寶藏  
+3. 每回合的所有玩家返回營地或場上出現兩張相同類型的災難卡時，該回合結束，該回合的到的寶石或神器放戶玩家帳篷中
 
 ## 操作說明
 使用者透過點擊按鈕以及控制滑鼠進行操作。
@@ -61,14 +62,14 @@
 
 ## 遊戲畫面介紹
 ![](image/game1.png "遊戲畫面")
-#### 設定介面
+### 設定介面
 設置遊玩人數後點擊Game Rule可切換至遊戲規則，點擊下方Start可開始遊戲。
 ![](image/setting.png "遊戲設定畫面")
-#### 回合顯示
+### 回合顯示
 回合數及圖片隨著回合不同而改變。  
-<img src="image/round1.png" width="19%" height="20%" /> <img src="image/round2.png" width="19%" height="20%" /> <img src="image/round3.png" width="19%" height="20%" /> <img src="image/round4.png" width="19%" height="20%" /> <img src="image/round5.png" width="19%" height="20%" />
+<img src="image/round1.png" width="19%" height="20%" /> <img src="image/round2.png" width="19%" height="20%" /> <img src="image/round3.png" width="19%" height="20%" /> <img src="image/round4.png" width="19%" height="20%" /> <img src="image/round5.png" width="19%" height="20%" />  
 
-#### 玩家資訊
+### 玩家資訊
 由左至右之圖示及數值依序為玩家頭像、該回合寶石數、帳篷內寶石數以及玩家選擇情形。
 * 玩家頭像由系統隨機分配。
 * 該回合寶石數當玩家選擇返回營地時進行紀錄，回合結束時將寶石數加至帳篷中。
@@ -78,13 +79,13 @@
 每一個卷軸代表一位玩家。玩家選擇返回營地後，卷軸顏色即呈現灰色，同時該回合寶石數值停止顯示。可藉由玩家選擇情形圖示了解每一位玩家是否選擇完成。  
 ![](image/agentData.png "agentData")
 
-#### 卡牌通道
+### 卡牌通道
 顯出每一次抽出的卡牌，每一張卡牌下方含有該卡牌名稱。寶石卡及神器卡右上方會顯示當前剩餘數值，一但神器被取走或寶石被分完，圖示和數值即消失，僅留下背景。  
 ![](image/path.png "path")  
-#### 按鈕選擇
+### 按鈕選擇
 玩家透過按鈕選擇下一步動作，LEAVE代表返回營地，STAY代表繼續探險。  
 ![](image/button.png "buttonArea")  
-#### 結束畫面
+### 結束畫面
 遊戲結束時顯示全體玩家帳篷內的寶石數，寶石數最多的玩家為本次遊戲的獲勝者，玩家卷軸顯示出顏色並在最右方附上獎盃。
 卡牌通道區卡牌移除並顯示結束遊戲的字樣。
 ![](image/end.png "end")
