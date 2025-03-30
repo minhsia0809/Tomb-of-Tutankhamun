@@ -59,14 +59,14 @@
 ## 遊戲規則 
 遊戲共分為**五回合**，最終由帳篷內寶石數最多的玩家獲勝。每回合開始前該回合的神器卡洗入牌堆中，每次從牌堆中翻開一張卡牌，翻開下一張卡牌前玩家須決定是否繼續探險。
 1. 選擇繼續探險之玩家，可能會遇到下列幾種卡牌：
-(1)**寶石卡**：寶石平均分配給選擇探索的玩家，剩下寶石放在寶石卡上
+(1) **寶石卡**：寶石平均分配給選擇探索的玩家，剩下寶石放在寶石卡上
 <img src="image/treature6.png" width="19%" height="20%" /> <img src="image/treature5.png" width="19%" height="20%" /> <img src="image/treature3.png" width="19%" height="20%" /> <img src="image/treature4.png" width="19%" height="20%" /> <img src="image/treature1.png" width="19%" height="20%" />
-(2)**神器卡**：保留至場上，當該回合選擇返回營地的玩家僅一位時，方可拿走神器
+(2) **神器卡**：保留至場上，當該回合選擇返回營地的玩家僅一位時，方可拿走神器
 <img src="image/artifact1.png" width="19%" height="20%" /> <img src="image/artifact2.png" width="19%" height="20%" /> <img src="image/artifact3.png" width="19%" height="20%" /> <img src="image/artifact4.png" width="19%" height="20%" /> <img src="image/artifact5.png" width="19%" height="20%" />
-(3)**災難卡**：若該卡為場上重複類型的災難，回合結束，尚未返回營地之玩家，該回合寶藏歸零
+(3) **災難卡**：若該卡為場上重複類型的災難，回合結束，尚未返回營地之玩家，該回合寶藏歸零
 <img src="image/hazard3.png" width="19%" height="20%" /> <img src="image/hazard5.png" width="19%" height="20%" /> <img src="image/hazard1.png" width="19%" height="20%" /> <img src="image/hazard2.png" width="19%" height="20%" />  <img src="image/hazard4.png" width="19%" height="20%" />  
 
-1. 選擇返回營地之玩家
+2. 選擇返回營地之玩家
 均分路徑上每張寶石卡剩餘的寶石，每回合的探索並不會影響放置於帳篷中的寶藏
 
 ## 操作說明
